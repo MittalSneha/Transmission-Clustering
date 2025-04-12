@@ -34,9 +34,9 @@ This demonstrates that selecting an appropriate energy window strengthens the re
 
 **Repository Contents**
 
-Features(complete energy range).xlsx – Features extracted ±2.5 eV of the Fermi level
+Features(complete energy range).xlsx – Features extracted within ±2.5 eV of the Fermi level
 
 Features(close to Fermi).xlsx – Features extracted within ±1.5 eV of the Fermi level
 
-README.md – Project overview and usage guide
+README.md – Project overview
 
